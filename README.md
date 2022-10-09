@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amir Gilboa 
-- 👀 I’m interested in coding
+- 👀 I’m passion for code and that increases daily.
 - 🌱 I’m currently learning redux
-- 💞️  I’m currently finish participating in a full-stack web bootcamp at AppleSeeds academy.
+- 💞️ I’m currently finish participating in a full-stack web bootcamp at AppleSeeds academy.
 
 ---
 ![Amirg76's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirg76&count_private=true&show_icons=true&theme=radical)
