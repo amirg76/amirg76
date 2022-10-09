@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&desc=First%20solve%20the%20problem%20Then%20write%20the%20code%20&height=100&fontSize=100&textBg=true&fontSize=80&animation=fadeIn&descSize=30)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=First%20solve%20the%20problem%20Then%20write%20the%20code%20&height=100&fontSize=100&textBg=true&fontSize=80&animation=fadeIn&descSize=30)
 - 👋 Hi, I’m Amir Gilboa 
 - 👀 I have passion for code and that increases daily.
 - 🌱 I’m currently learning redux
