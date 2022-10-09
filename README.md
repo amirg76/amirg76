@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Gilboa 
-- 👀 I’m passion for code and that increases daily.
+- 👀 I have passion for code and that increases daily.
 - 🌱 I’m currently learning redux
 - 💞️ I’m currently finish participating in a full-stack web bootcamp at AppleSeeds academy.
 
