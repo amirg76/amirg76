@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20“First, solve the problem. Then, write the code.” %20&height=300&fontSize=100&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20First, solve the problem. Then, write the code. %20&height=300&fontSize=100&textBg=true)
 - 👋 Hi, I’m Amir Gilboa 
 - 👀 I have passion for code and that increases daily.
 - 🌱 I’m currently learning redux
