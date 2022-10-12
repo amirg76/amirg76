@@ -5,6 +5,12 @@
 - 💞️ I’m currently finish participating in a full-stack web bootcamp at AppleSeeds academy.
 
 ---
+#### Top Technologies
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
+[![MongoDB Badge](https://img.shields.io/badge/-MongoDb-blueviolet?style=for-the-badge&labelColor=black&logo=node.js&logoColor=blueviolet)](#) 
+---
+---
 ![Amirg76's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirg76&count_private=true&show_icons=true&theme=radical)
 <!---
 amirg76/amirg76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
