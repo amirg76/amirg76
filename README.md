@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=First%20solve%20the%20problem%20Then%20write%20the%20code%20&height=100&fontSize=100&textBg=true&fontSize=80&animation=fadeIn&descSize=30&stroke=00FF00&theme=default)
 - 👋 Hi, I’m Amir Gilboa 
 - 👀 I have passion for code and that increases daily.
-- 🌱 I’m currently learning redux
+- 🌱 I’m currently learning react query
 - 💞️ I’m finish participating in a full-stack web bootcamp at AppleSeeds academy.
 
 ---
