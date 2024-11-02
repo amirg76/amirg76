@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Amir Gilboa 
 - 👀 I have passion for code and that increases daily.
 - 🌱 I’m currently learning redux
-- 💞️ I’m currently finish participating in a full-stack web bootcamp at AppleSeeds academy.
+- 💞️ I’m finish participating in a full-stack web bootcamp at AppleSeeds academy.
 
 ---
 #### Top Technologies
