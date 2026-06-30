@@ -60,14 +60,9 @@ A 3-tier system:
 
 <div align="center">
 
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=amirg76&count_private=true&show_icons=true&theme=radical&hide_border=true)
 ![Streak](https://streak-stats.demolab.com?user=amirg76&theme=radical&hide_border=true)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirg76&layout=compact&theme=radical&hide_border=true)
-
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirg76&theme=react-dark&hide_border=true&area=true)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=amirg76&theme=radical&no-frame=true&column=7&margin-w=8)
 
 </div>
 
